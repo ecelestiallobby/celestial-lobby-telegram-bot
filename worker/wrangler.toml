@@ -1,0 +1,11 @@
+name = "celestial-lobby-telegram-bot"
+main = "src/index.ts"
+compatibility_date = "2026-11-27"
+
+[vars]
+BUSINESS_NAME = "CELESTIAL LOBBY"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "celestial-lobby-bot"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
