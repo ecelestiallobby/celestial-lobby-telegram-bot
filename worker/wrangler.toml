@@ -8,4 +8,4 @@ BUSINESS_NAME = "CELESTIAL LOBBY"
 [[d1_databases]]
 binding = "DB"
 database_name = "celestial-lobby-bot"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "5cb0fb06-0c98-4dd4-9121-a4e8c92241b9"
